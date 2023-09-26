@@ -9,3 +9,7 @@
 5. Save the changes
 
 6. Upload photos
+
+7. Add audio call feature
+
+8. Add video call feature
